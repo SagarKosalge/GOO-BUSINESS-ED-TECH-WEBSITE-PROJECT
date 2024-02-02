@@ -5,9 +5,6 @@
     animation: pogressing 1s ease-in-out 1;
     /* animation: vanish 1s linear 3s 1; */
     /* display: none; */
-
-
-
 }
 
 
@@ -147,10 +144,7 @@ background-color: red; */
     border-radius: 5px;
     cursor: pointer;
 }
-.intro-image{
-    
 
-}
 .a-icon{
     font-size: 45px;
     padding-left: 30px;

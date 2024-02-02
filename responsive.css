@@ -1,0 +1,96 @@
+@media screen and (max-width:930px) {
+
+
+
+    .container {
+        display: inline-block;
+        cursor: pointer;
+    }
+
+
+
+    .introSection>div {
+        flex-direction: column;
+        width: 90vw;
+        margin: auto;
+    }
+
+    .introSection>div>div>img {
+        display: none;
+    }
+
+    .introSection>div:last-child {
+        margin-top: 100px;
+    }
+
+    .allInOneSection>div:nth-child(2) {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .allInOneSection>div:nth-child(2)>div {
+        width: 90vw;
+        margin: auto;
+    }
+
+    .allInOneSection>div:nth-child(2)>div:nth-child(2) {
+        margin-top: 43px;
+    }
+
+    .CardSection>div {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .CardSection>div>div {
+        width: 85%;
+        margin: 30px 0;
+    }
+
+    .autoscroll>div>div {
+        width: 80%;
+    }
+
+
+    .lastPeopleSection>div {
+        flex-direction: column;
+        margin: auto;
+    }
+
+    .lastPeopleSection>div>div {
+        margin: auto;
+    }
+
+    .lastPeopleSection>div>div:first-child>div {
+        flex-direction: column;
+        margin-bottom: 70px;
+        width: 135%;
+    }
+
+    .lastPeopleSection>div>div>div>div:first-child {
+        right: 0;
+        bottom: 30px;
+    }
+
+
+    footer h5 {
+        padding-top: 15px;
+    }
+
+    .firstRow {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+
+    .thirdRow {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .thirdRow>div {
+        padding: 3px 0;
+    }
+
+}

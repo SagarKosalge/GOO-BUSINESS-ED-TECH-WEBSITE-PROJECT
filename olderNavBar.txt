@@ -1,0 +1,34 @@
+  <!-- <nav>
+      <div><a href="https://trackingtime.co/"><img
+            src="https://trackingtime.co/wp-content/themes/trackingtime-ACF/img/logo/logo-full-color.svg" alt=""></a>
+      </div>
+      <div>
+        <ul>
+          <li><a href="https://trackingtime.co/integrations">Integrations</a></li>
+          <li><a href="https://trackingtime.co/blog">Blog</a></li>
+          <li><a href="#">Features</a>
+            <ul>
+
+              <li><a href="https://trackingtime.co/features/time-tracker">Time Tracker</a></li>
+              <li><a href="https://trackingtime.co/features/project-management">Project Management</a>
+              </li>
+              <li><a href="https://trackingtime.co/features/online-timesheet">Online Timesheet</a></li>
+              <li><a href="https://trackingtime.co/features/time-cards">Time cards</a></li>
+              <li><a href="https://trackingtime.co/features/attendance-tracker">Attendance tracking</a>
+              </li>
+              <li><a href="https://trackingtime.co/features/billing-and-payroll-reports">Time
+                  reporting</a></li>
+
+            </ul>
+          </li>
+          <li><a href="">Try it free</a></li>
+          <li><a>Login</a></li>
+        </ul>
+      </div>
+
+    </nav> -->
+    <!-- <div class="container" onclick="myFunction(this)">
+      <div class="bar1"></div>
+      <div class="bar2"></div>
+      <div class="bar3"></div>
+    </div> -->
